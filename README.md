@@ -30,6 +30,14 @@
 
 <br>
 
+<p align="center">
+  <b>Trabajando en:</b> Sistema corporativo de logística e inventarios multi-sede.<br>
+  <b>Profundizando en:</b> Inteligencia Artificial y Análisis de Datos.<br>
+  <b>Abierto a:</b> Nuevos retos profesionales, roles full-time, proyectos freelance y colaboraciones.
+</p>
+
+<br>
+
 <!-- ========================================== -->
 <!-- SECCIÓN: Sobre Mí                          -->
 <!-- Descripción de perfil híbrido y objetivos  -->
@@ -67,7 +75,11 @@ Soy un profesional con un perfil técnico híbrido: **Ingeniero en Nanotecnolog�
 ## Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanye587-cr7&theme=tokyonight" alt="Racha de GitHub" height="192px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanye587-cr7&theme=tokyonight" alt="Racha de contribuciones" />
+  <br><br>
+  <img src="./languages.svg" alt="Lenguajes más usados" />
+  <br><br>
+  <img src="./stats.svg" alt="Estadísticas generales" />
 </div>
 
 <br>
