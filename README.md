@@ -68,21 +68,6 @@ Soy un profesional con un perfil técnico híbrido: **Ingeniero en Nanotecnolog�
 
 <br>
 
-<!-- ========================================== -->
-<!-- SECCIÓN: Estadísticas de GitHub            -->
-<!-- Tarjetas dinámicas de actividad y rachas   -->
-<!-- ========================================== -->
-## Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanye587-cr7&theme=tokyonight" alt="Racha de contribuciones" />
-  <br><br>
-  <img src="./languages.svg" alt="Lenguajes más usados" />
-  <br><br>
-  <img src="./stats.svg" alt="Estadísticas generales" />
-</div>
-
-<br>
 
 <!-- ========================================== -->
 <!-- SECCIÓN: Stack Tecnológico                 -->
@@ -151,15 +136,3 @@ Plataforma funcional en producción que centraliza la información institucional
 
 <br>
 
-<!-- ========================================== -->
-<!-- SECCIÓN: Contribuciones                    -->
-<!-- Animación 'snake' vía GitHub Actions       -->
-<!-- ========================================== -->
-## Contribuciones
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanye587-cr7/sanye587-cr7/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sanye587-cr7/sanye587-cr7/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sanye587-cr7/sanye587-cr7/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
